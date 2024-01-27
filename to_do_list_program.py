@@ -1,10 +1,3 @@
-
-
-
-
-# It's not included in My GitHub
-
-
 def main_menu():
     print("\n ----- To-Do List📝 -----")
     print("1. Add a new task 📌")
